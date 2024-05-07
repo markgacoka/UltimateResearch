@@ -11,7 +11,7 @@
     "react-router-dom": "^6.11.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "webextension-polyfill": "^0.10.0"
+    "webextension-polyfill": "^0.11.0"
   },
   "scripts": {
     "start": "react-scripts start",
